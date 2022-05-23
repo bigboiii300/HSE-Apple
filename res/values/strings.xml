@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HSE Apple</string>
+    <string name="notifications_tab">Уведомления</string>
+    <string name="dashboard_tab">Дашборд</string>
+    <string name="user_tab">Пользователь</string>
+</resources>
